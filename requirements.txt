@@ -1,0 +1,13 @@
+# Common requirements
+requests>=2.25.0
+tqdm>=4.60.0
+
+# Public DNS enumeration tool requirements
+dnspython>=2.1.0
+urllib3>=1.26.0
+
+# Authenticated DNS enumeration tool requirements
+azure-identity>=1.6.0
+azure-mgmt-dns>=8.0.0
+azure-mgmt-subscription>=1.0.0
+tabulate>=0.8.9
