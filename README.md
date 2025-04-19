@@ -1,7 +1,6 @@
-# Azure DNS Enumeration Tools
+# 🔍 AzureEnum - Azure Cloud Enumeration Toolkit
 
-This repository contains tools for enumerating Azure DNS services. These tools are designed for security professionals, penetration testers, and system administrators who need to assess the security of Azure environments through DNS reconnaissance.
-
+AzureEnum is a powerful, lightweight enumeration tool designed for security professionals and bug bounty hunters targeting Microsoft Azure environments. This tool aids in passive and active reconnaissance of Azure assets and services using OSINT techniques, without requiring authentication.
 ## Overview
 
 This repository includes two primary tools:
@@ -19,6 +18,19 @@ cd AzureEnum
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+
+✨ Features
+✅ Discover publicly exposed Azure services and endpoints
+
+✅ Enumerate Azure subdomains and storage accounts
+
+✅ Passive reconnaissance with no authentication required
+
+✅ Automates OSINT-based techniques for Azure infrastructure
+
+✅ Useful for Red Team operations, bug bounty, and cloud security assessments
+
 
 ## Tools
 
