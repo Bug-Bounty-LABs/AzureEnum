@@ -13,8 +13,8 @@ This repository includes two primary tools:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/azure-dns-enum.git
-cd azure-dns-enum
+git clone https://github.com/rfs85/AzureEnum.git
+cd AzureEnum
 
 # Install dependencies
 pip install -r requirements.txt
