@@ -149,6 +149,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Disclaimer
-
-These tools are provided as-is without any warranty. The author is not responsible for any misuse or damage caused by these tools. Use at your own risk.
+## ⚠️ Legal Disclaimer
+This tool is intended for authorized security testing and educational purposes only. Ensure you have proper authorization before using AzureEnum against any infrastructure. The authors are not responsible for any misuse or damage caused.
